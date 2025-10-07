@@ -1,32 +1,70 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Sai Bajantri | Data Analyst" width="100%">
+</p>
 
-<!--
-**SaiBajantri/SaiBajantri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Whats up! I'm Sai Bajantri</h1>
+<h3 align="center">📊 Data Analyst | Power BI | Tableau | Python | AI Automation</h3>
 
-Here are some ideas to get you started:
+---
 
-Hi, I’m Drew Peterson — a data analytics student and entrepreneur passionate about building AI-powered tools that make data simpler, smarter, and more actionable.
+###  About Me
+I’m a **Data Analyst** passionate about transforming raw data into actionable insights and visually engaging dashboards.  
+I specialize in **data visualization, analytics automation, and business intelligence** — helping companies make data-driven decisions through clean, interactive reporting.
 
-I’m currently studying Business Analytics & Information Technology at Virginia Tech, and I run a startup that develops AI voice agents and analytics dashboards for contractors across North Carolina. I love working at the intersection of data, automation, and user experience, turning raw information into insights that drive real results.
+💼 **Currently:**  
+- Building an **AI voice agent and data analytics platform** for contractors in North Carolina.  
+- Designing **Power BI and Tableau dashboards** for public and business datasets (Exoplanet Analysis, Media Analytics, Sales Forecasting, etc.).  
 
-💡 What I’m into:
+📍 Based in: Charlotte, USA  
+🎓 Studying: **Business Analytics & Information Technology @ North Carolina State University**
 
-Data visualization (Power BI, Tableau, Python)
+---
 
-Machine learning & predictive analytics
+### 🧠 Skills & Tools
 
-AI automation and voice agent systems
+| 💻 Languages | 📊 Visualization | ⚙️ Tools & Tech | 📚 Concepts |
+|---------------|------------------|----------------|-------------|
+| Python (Pandas, NumPy, Matplotlib) | Power BI | SQL | Data Cleaning |
+| R (basic) | Tableau | Excel / Google Sheets | Forecasting & KPIs |
+| DAX / M Queries | Plotly | Supabase / APIs | Data Storytelling |
 
-Building tools that solve real business problems
+---
 
-📊 Current projects:
+### 🚀 Featured Projects
 
-Power BI dashboards analyzing exoplanet and streaming media datasets
+#### 🪐 **Exoplanet Discovery Dashboard**
+<img src="https://github.com/yourusername/yourusername/blob/main/exoplanet_dashboard.png" width="600"/>
 
-AI voice receptionist & CRM analytics platform for contractors
+- Built an **interactive Power BI dashboard** analyzing NASA’s exoplanet discoveries (1980–2021).  
+- Highlighted discovery methods, number of stars per planet, and facility-based trends.  
+- Revealed that over **75% of planets were found using the Transit method**.
 
-Forecasting and predictive sales models for DTC brands
+---
 
-📬 Let’s connect:
-I’m always open to collaborating on analytics, automation, or AI-driven projects — or just talking shop about startups and data.
+#### 🎬 **Global Media Analytics Dashboard**
+<img src="https://github.com/yourusername/yourusername/blob/main/media_dashboard.png" width="600"/>
 
+- Analyzed **9,600+ film and TV titles** to visualize global content distribution by genre, rating, and release year.  
+- Designed a corporate-style Power BI dashboard for **executive-level trend analysis**.
+
+---
+
+#### 🧠 **AI Voice Agent & Analytics Platform**
+<img src="https://github.com/yourusername/yourusername/blob/main/ai_voice_agent.png" width="600"/>
+
+- Built an **AI voice receptionist** and analytics dashboard for local contractors.  
+- Reduced missed calls by **60%** using voice-to-data automation and scheduling insights.
+
+---
+
+### 🤝 Let’s Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/saibajantri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Drew%20Peterson-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:bajantrisai2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://treeagency.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome"></a>
+</p>
+
+---
+
+⭐ **“Turning data into decisions — one dashboard at a time.”**
