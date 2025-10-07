@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Sai Bajantri | Data Analyst" width="100%">
+  <img src="https://bitperfect.at/assets/blog-images/Headerbild-Was-ist-GitHub-v2.png" alt="Sai Bajantri | Data Analyst" width="10%">
 </p>
 
 <h1 align="center">👋 Whats up! I'm Sai Bajantri</h1>
@@ -13,7 +13,7 @@ I’m a **Data Analyst** passionate about transforming raw data into actionable 
 I specialize in **data visualization, analytics automation, and business intelligence** — helping companies make data-driven decisions through clean, interactive reporting.
 
 💼 **Currently:**  
-- Building an **AI voice agent and data analytics platform** for contractors in North Carolina.  
+- Building an **AI voice agent and data analytics platform/ (Tree Agency)** for contractors in North Carolina.  
 - Designing **Power BI and Tableau dashboards** for public and business datasets (Exoplanet Analysis, Media Analytics, Sales Forecasting, etc.).  
 
 📍 Based in: Charlotte, USA  
@@ -34,7 +34,7 @@ I specialize in **data visualization, analytics automation, and business intelli
 ### 🚀 Featured Projects
 
 #### 🪐 **Exoplanet Discovery Dashboard**
-<img src="https://github.com/yourusername/yourusername/blob/main/exoplanet_dashboard.png" width="600"/>
+<img src="https://d2pn8kiwq2w21t.cloudfront.net/images/mission-highlights-800h-v6-public-exoplanets.width-1024.png" width="5%"/>
 
 - Built an **interactive Power BI dashboard** analyzing NASA’s exoplanet discoveries (1980–2021).  
 - Highlighted discovery methods, number of stars per planet, and facility-based trends.  
@@ -43,26 +43,18 @@ I specialize in **data visualization, analytics automation, and business intelli
 ---
 
 #### 🎬 **Global Media Analytics Dashboard**
-<img src="https://github.com/yourusername/yourusername/blob/main/media_dashboard.png" width="600"/>
+<img src="https://amazingphysicsforall.com/wp-content/uploads/2022/06/planet-earth-space-continents-1457453.png" width="5%"/>
 
 - Analyzed **9,600+ film and TV titles** to visualize global content distribution by genre, rating, and release year.  
 - Designed a corporate-style Power BI dashboard for **executive-level trend analysis**.
 
 ---
 
-#### 🧠 **AI Voice Agent & Analytics Platform**
-<img src="https://github.com/yourusername/yourusername/blob/main/ai_voice_agent.png" width="600"/>
-
-- Built an **AI voice receptionist** and analytics dashboard for local contractors.  
-- Reduced missed calls by **60%** using voice-to-data automation and scheduling insights.
-
----
-
 ### 🤝 Let’s Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/saibajantri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Drew%20Peterson-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/saibajantri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sai%20Bajantri-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:bajantrisai2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://treeagency.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://treeagency.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Website-Tree Agency-green?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
